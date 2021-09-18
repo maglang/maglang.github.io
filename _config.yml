@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Angelie Maglasang"
+  name             : "Angelie"
   avatar           : "/assets/images/anj-photo-min.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist | Consultant | Public Health Professional"
+  bio              : "Data Scientist"
   location         : "WFH in the PH"
   email            : "anj.on.autopilot@gmail.com"
   links:
